@@ -1,2 +1,2 @@
 # GoblinShell
-A minimalist shell POSIX-oriented 
+A minimalist shell POSIX-oriented made in Rust
